@@ -40,8 +40,9 @@ get out more frequent releases and your help with this would be greatly apprecia
 
 * [Addy Osmani](https://github.com/addyosmani) 
 * [Gerits Aurelien](https://github.com/gtraxx)
+* [Thomas Ingles](https://github.com/sudwebdesign)
 * You? ; ) We're always open to improvements.
 
 ##Demo
 
-For a live preview of the current theme, see [http://addyosmani.github.com/jquery-ui-bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap).
+For a live preview of the current theme, see [http://sudwebdesign.github.com/jquery-ui-bootstrap](http://sudwebdesign.fr/jqueryuiBootstrap3/).
