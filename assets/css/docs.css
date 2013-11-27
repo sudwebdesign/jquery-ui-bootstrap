@@ -435,7 +435,7 @@ form.bs-docs-example {
 -------------------------------------------------- */
 
 .bs-docs-sidenav {
-    width: 228px;
+    width: 217px;
     margin: 30px 0 0;
     padding: 0;
     background-color: #fff;
@@ -464,6 +464,7 @@ form.bs-docs-example {
     border-radius: 0 0 6px 6px;
 }
 .bs-docs-sidenav > li.active > a {
+color:#fff;
     background: #B24926; /* Old browsers */
     background: -moz-linear-gradient(45deg,  #B24926 0%, #FAA523 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#B24926), color-stop(100%,#FAA523)); /* Chrome,Safari4+ */
@@ -503,8 +504,6 @@ form.bs-docs-example {
 }
 .bs-docs-sidenav.affix-bottom {
     position: absolute;
-    top: auto;
-    bottom: 270px;
 }
 /* Desktop
 ------------------------- */
@@ -537,19 +536,19 @@ form.bs-docs-example {
 @media (min-width: 768px) and (max-width: 979px) {
     /* Remove any padding from the body */
     body {
-        padding-top: 0;
+       padding-top: 47px;
     }
     /* Widen masthead and social buttons to fill body padding */
     .jumbotron {
-        margin-top: -20px; /* Offset bottom margin on .navbar */
+        /* margin-top: -20px; Offset bottom margin on .navbar */
     }
     /* Adjust sidenav width */
     .bs-docs-sidenav {
         width: 166px;
-        margin-top: 20px;
+        margin-top: 47px;
     }
     .bs-docs-sidenav.affix {
-        top: 0;
+        top: 20;/**/
     }
 }
 
@@ -564,7 +563,7 @@ form.bs-docs-example {
     /* Widen masthead and social buttons to fill body padding */
     .jumbotron {
         padding: 40px 20px;
-        margin-top:   -20px; /* Offset bottom margin on .navbar */
+       /* margin-top:   -20px;  Offset bottom margin on .navbar */
         margin-right: -20px;
         margin-left:  -20px;
     }
