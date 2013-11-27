@@ -255,7 +255,6 @@
 
 .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #555555; text-decoration: none; }
 .ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
-  background-position: 0 -15px;
   color: #333;
   text-decoration: none;
  }
@@ -1611,4 +1610,3 @@ div.wijmo-wijmenu .wijmo-wijmenu-child .wijmo-wijmenu-text
   color:#BFBFBF;
   filter: none;
 }
-
