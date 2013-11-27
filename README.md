@@ -1,4 +1,4 @@
-#jQuery UI Bootstrap
+#jQuery UI Bootstrap 3
 
 This project was started to bring the beauty and ease-of-use of Twitter Bootstrap to jQuery UI widgets ♥.
 
