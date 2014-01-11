@@ -21,21 +21,11 @@ There *are* some minor known issues lingering that I'm working on, but the hope 
 
 ##jQuery UI support
 
-This theme targets jQuery UI 1.9.2 and the default version of jQuery included in the (current) jQuery UI builds (jQuery 1.6.2+).
+This theme targets jQuery UI 1.10.3 and the default version of jQuery included in the (current) jQuery UI builds (jQuery 2.0.3).
 
 ##Project status
 
-This project is under active, but slow development. There has been a great deal
-of work done in branches to introduce compatibility with jQuery UI 1.9 and further
-work done to move us towards using LESS and improved parity with Bootstrap 2.x.
-
-At this time, we are seeking contributors interested in helping us finally complete
-the work needed to be Bootstrap 2.x compatible. This would involve helping in your
-spare time across a few weeks and you would be given credit in the project README.
-
-As one of the (currently) more popular open-source jQuery UI themes we would love to
-get out more frequent releases and your help with this would be greatly appreciated.
-
+For E>volution and cdn experiment
 ##Team
 
 * [Addy Osmani](https://github.com/addyosmani) 
